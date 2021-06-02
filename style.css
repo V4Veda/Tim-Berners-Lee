@@ -90,3 +90,12 @@ p{
 .links:hover{
     background-color:violet;
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: darkblue;
+}
+html{
+    scroll-behavior: smooth;
+}
